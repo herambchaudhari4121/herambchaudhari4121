@@ -38,13 +38,8 @@
 
 <br>
 
-<!-- # Connect with me<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Handshake.gif" height="32px">
 
-| [<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/viral-sangani) | [<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/viral-sangani) | [<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/viral-sangani/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/viral-sangani) | [<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13944080/viral-sangani) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shubhamdeepjha) | [<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:viral-sangani@gmail.com) |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: | -->
 
-<br>
-<br>
 
 <!--
 
