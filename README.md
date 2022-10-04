@@ -28,20 +28,6 @@
 - <img alt="GIF" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [_He/Him_](https://pronoun.is/he) 🧔
 - <img alt="GIF" src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My _smartness_ 💡 lies in my _laziness_ 😴
 
-<br>
-
-![Viral's github stats](https://github-readme-stats.vercel.app/api?username=viral-sangani&show_icons=true&hide_border=true)
-
-<br>
-
-<img src="https://github.com/viral-sangani/viral-sangani/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-
-<br>
-
-
-
-
-<!--
 
 ![Dino](https://github.com/viral-sangani/viral-sangani/blob/master/Assets/dino.gif)
 
