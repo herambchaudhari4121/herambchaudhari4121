@@ -21,14 +21,14 @@
   </p>
 
 
-<p >Viral Sangani is a Web3 Developer, where he is improving his skills and learn new technologies in decentralized world and deploying to the modern web. He also writes @ Viral Sangani's Blog, a place where he writes about new technologies and mostly Web3 related stuff. He spends a lot of time writing to share what he’s learned in tech world. He build, automate and sometine help people rescue applications. This frequently boils down to help community members grow and learn from each other at every opportunity and share what we learn . His motto in life is , **Pursue Passions Not Paychecks**, **Invest in Ideas That Matter** and **Be Lazy and Dumb**. He is trying his very best to follow his own advice. He lives in India 🇮🇳.
+<p >heramb chaudhari is a Web3 Developer, where he is improving his skills and learn new technologies in decentralized world and deploying to the modern web.  a place where he writes about new technologies and mostly Web3 related stuff. He spends a lot of time writing to share what he’s learned in tech world. He build, automate and sometine help people rescue applications. This frequently boils down to help community members grow and learn from each other at every opportunity and share what we learn . His motto in life is , **Pursue Passions Not Paychecks**, **Invest in Ideas That Matter** and **Be Lazy and Dumb**. He is trying his very best to follow his own advice. He lives in India 🇮🇳.
 </p>
 
 
 
 ## Top Projects
 
-<a href="https://github.com/viral-sangani/blog.viralsangani.me">
+<a href="https://github.com/ofsoundof/3D_Appearance_SR">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
@@ -36,7 +36,7 @@
 
 </a>  
 
-<a href="https://github.com/viral-sangani/flutter_walletconnect">
+<a href="https://github.com/WeblateOrg/website">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
@@ -45,7 +45,7 @@
 </a> 
 
 
-<a href="https://github.com/viral-sangani/Polymarket-clone">
+<a href="https://github.com/livecoders/website">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
@@ -81,7 +81,7 @@
 <br/>
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=viral-sangani&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=herambchaudhari4121&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
 
