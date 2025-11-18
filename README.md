@@ -14,8 +14,9 @@
   </p>
 
 
-<p >heramb chaudhari is a Web3 Developer, where he is improving his skills and learn new technologies in decentralized world and deploying to the modern web.  a place where he writes about new technologies and mostly Web3 related stuff. He spends a lot of time writing to share what he’s learned in tech world. He build, automate and sometine help people rescue applications. This frequently boils down to help community members grow and learn from each other at every opportunity and share what we learn . His motto in life is , **Pursue Passions Not Paychecks**, **Invest in Ideas That Matter** and **Be Lazy and Dumb**. He is trying his very best to follow his own advice. He lives in India 🇮🇳.
-</p>
+<p >A developer who enjoys building in the Web3, Full-Stack, AI, and Embedded Systems space. Always experimenting with new technologies, learning deeply, and deploying ideas to the modern web and decentralized ecosystem.
+This developer writes about blockchain, AI tools, emerging technologies, and software engineering, sharing knowledge to help the community learn and grow together. A strong believer in open-source, continuous learning, and building practical, real-world solutions.
+Loves creating things, automating workflows, and occasionally rescuing broken applications. Focuses on contributing, improving, and making technology simpler for others.
 
 
 ## 🏆GitHub Trophies
